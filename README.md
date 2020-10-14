@@ -1,2 +1,2 @@
 # myproject
-Implementation od fractal image compression with GUI
+Implementation of fractal image compression with GUI
